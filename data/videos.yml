@@ -3979,3 +3979,14 @@ CocoaHeads Düsseldorf August 2016:
     title: MVVM-C A simple way to navigate
     tags: [design patterns, architecture, mvvm]
     vimeo: 177566153
+NSLondon September 2016:
+  - language: English
+    speakers: [Sam Dods]
+    title: "Advanced Notifications: Rapid Prototyping and Server-side Swift"
+    tags: [notifications, extension]
+    vimeo: 185028972
+  - language: English
+    speakers: [Maxim Cramer]
+    title: "Emissions and Extractions: A Tale of React Native on iOS"
+    tags: [react native, open source]
+    vimeo: 185028973
